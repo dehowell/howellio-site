@@ -1,4 +1,5 @@
 baseURL = "https://www.howell.io/"
 languageCode = "en-us"
 title = "David Howell"
+description = "As unprincipled as the gods and as much a jack of all trades."
 theme = "unprincipled"
