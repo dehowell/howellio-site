@@ -1,0 +1,15 @@
+# See https://github.com/gohugoio/hugoThemes#themetoml for an example
+
+name = "Unprincipled"
+license = "All Rights Reserved"
+licenselink = "https://github.com/dehowell/howellio-site/blob/master/LICENSE"
+description = ""
+homepage = "https://www.howell.io/"
+tags = []
+features = []
+min_version = "0.41.0"
+
+[author]
+  name = "David Howell"
+  homepage = "https://www.howell.io/"
+

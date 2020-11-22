@@ -1,0 +1,4 @@
+baseURL = "https://www.howell.io/"
+languageCode = "en-us"
+title = "David Howell"
+theme = "unprincipled"
