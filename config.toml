@@ -3,11 +3,14 @@ languageCode = "en-us"
 theme = "terminal"
 paginate = 5
 
+[permalinks]
+  posts = "/:year/:month/:title/"
+
 [params]
   contentTypeName = "posts"
-  themeColor = "orange"
+  themeColor = "blue"
   showMenuItems = 2
-  fullWidthTheme = true
+  fullWidthTheme = false
   centerTheme = true
   showGitInfo = true
 
