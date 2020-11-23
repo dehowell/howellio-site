@@ -38,6 +38,6 @@ paginate = 5
 
     [languages.en.menu]
       [[languages.en.menu.main]]
-        identifier = "about"
-        name = "About"
-        url = "/about"
+        identifier = "start"
+        name = "Start Here"
+        url = "/start"
