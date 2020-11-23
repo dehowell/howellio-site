@@ -13,7 +13,7 @@ Three computers held sway over my brothers and I during my childhood: the Commod
 
 Every few years, something reminds me of cellular automata and my fascination starts all over again[^3]. A few weeks ago, reading about common patterns and problems in [Go](<https://en.wikipedia.org/wiki/Go_(game)>) reminded me of structures that show up in [John Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) -- especially the "Crane In the Nest":
 
-![](/content/images/2016/07/crane.gif)
+{{< figure src="crane.gif" >}}
 
 The similarity may not be a coincidence: according to [Wikipedia](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life), some of the early Game of Life explorations were conducted using just graph paper and Go boards.
 
@@ -25,61 +25,27 @@ A _cellular automaton_ is a simple simulated universe, where time moves forward 
 
 Some structures are stable and static:
 
-<ul class="gallery">
-  <li>
-    <figure>
-      <img src="/content/images/2016/07/block.png" alt="Block">
-      <figcaption>Block</figcaption>
-    </figure>
-  </li>
-  <li>
-    <figure>
-      <img src="/content/images/2016/07/boat.png" alt="Boat"/>
-      <figcaption>Boat</figcaption>
-    </figure>
-  </li>
-  <li>
-    <figure>
-      <img src="/content/images/2016/07/beehive.png" alt="Beehive"/>
-      <figcaption>Beehive</figcaption>
-    </figure>
-  </li>
-</ul>
+{{< figure src="block.png" title="Block" caption="Block" >}}
+{{< figure src="boat.png" title="Boat" caption="Boat" >}}
+{{< figure src="beehive.png" title="Beehive" caption="Beehive" >}}
 
 Other structures are stable, but oscillate:
 
-<ul class="gallery">
-  <li>
-    <figure>
-      <img src="/content/images/2016/07/blinker.gif" alt="Blinker"/>
-      <figcaption>Blinker</figcaption>
-    </figure>
-  </li>
-  <li>
-    <figure>
-      <img src="/content/images/2016/07/toad.gif" alt="Toad"/>
-      <figcaption>Toad</figcaption>
-    </figure>
-  </li>
-  <li>
-    <figure>
-      <img src="/content/images/2016/07/beacon.gif" alt="Beacon"/>
-      <figcaption>Beacon</figcaption>
-    </figure>
-  </li>
-</ul>
+{{< figure src="blinker.gif" title="Blinker" caption="Blinker" >}}
+{{< figure src="toad.gif" title="Toad" caption="Toad" >}}
+{{< figure src="beacon.gif" title="Beacon" caption="Beacon" >}}
 
 And then there's the glider, a stable pattern that _moves_ across the lattice.
 
-![](/content/images/2016/07/glider_motion_labeled.svg)
+{{< figure src="glider_motion_labeled.svg" >}}
 
 The three rules of the Game of Life are enough to send this little buddy exploring!
 
-![](/content/images/2016/07/glider.gif)
+{{< figure src="glider.gif" >}}
 
 Forty-six years after its introduction, Conway's Game of Life still has fans. [ConwayLife.com](http://www.conwaylife.com) and its associated [wiki](http://www.conwaylife.com/wiki/Main_Page) catalogue newly discovered patterns and variations. There are other shapes like the glider -- the "spaceships" -- which move across the field. There are [glider guns](http://www.conwaylife.com/wiki/Gun): oscillating structures which periodically emit new gliders. As of July 8th, there are over **eight hundred** patterns in the wiki and the [most recent pattern](http://conwaylife.com/wiki/Rich%27s_p16 "Rich's p16") was discovered just [this week](https://mathematrec.wordpress.com/2016/07/05/richs-p16/)! Among the patterns, there's even a [universal Turing machine](http://rendell-attic.org/gol/utm/index.htm)[^5]. With enough patience, you could simulate Conway's Game of Life inside Conway's Game of Life by encoding it in the initial state of the universal Turing machine pattern. Once you're at it, why not encode the Game of Life in _that_ simulation?
 
-![](/content/images/2016/07/conway_turing_inception.jpg)
+{{< figure src="conway_turing_inception.jpg" >}}
 
 The beautiful thing about all these patterns is that they are _consequences_ of the rules, but they are not _in_ the rules. Inertia isn't in the rules, yet something _like_ inertia seems to drive the glider inexorably in the direction that it faces. The more complex patterns -- the so-called "engineered" patterns -- have to be hand-crafted, but the simplest arise from most initial conditions. Watch how blocks, oscillators, and gliders all show up when I seed Life with a bunch of scribbles[^6]:
 

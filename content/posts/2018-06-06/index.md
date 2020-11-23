@@ -10,8 +10,7 @@ title = "Readings: 6 Jun 2018"
 
 +++
 
-
-![](/content/images/2017/06/distall_aia_sketch.jpg)
+{{< figure src="distall_aia_sketch.jpg" >}}
 
 ["Using Artificial Intelligence to Augment Human Intelligence" in Distill][1]:
 
@@ -30,5 +29,5 @@ Outsourcing all labor to artificial intelligence is such a boring vision. I want
 [^1]: I would be surprised if any font designer had to be told to maintain the same line height across variants, but I'm curious if "the enclosed area in a glyph should remain roughly constant across font weights" is a known design principle.
 
 [1]: https://distill.pub/2017/aia/
-[2]: /2016/09/05/on-centaurs
+[2]: {{< ref "on-centaurs.md" >}}
 

@@ -15,11 +15,8 @@ I [finished & indexed volume 24 of my notebooks today](/indexing-two-years-of-no
 
 I have actually been using Roam with great succcess, but that doesn't mean I'm abandoning my notebooks any time soon. Still hard to beat phase-locking into an indelible medium where [you also get peripheral vision](https://notes.andymatuschak.org/Peripheral_vision).
 
-![09590F0B-E32E-4221-8D55-F875494CEEC9](/content/images/2020/02/09590F0B-E32E-4221-8D55-F875494CEEC9.jpg)
+{{< figure src="buy_notebook.jpg" title="Buy a Fucking Notebook" >}}
 
 So yes, buy a fucking notebook — and some index cards, too. Those are good stepping stones into something like Roam, with spatial affordances you won't get in software. All that crazy swooshy science fiction UI stuff you see in movies? You can have that on your desk with index cards, **right now**.
 
-![8F82C743-6387-4307-87F7-BDCD594D4CF4](/content/images/2020/02/8F82C743-6387-4307-87F7-BDCD594D4CF4.jpg)
-
-
-
+{{< figure src="zettels.jpg" title="Index Card Reading Notes" >}}

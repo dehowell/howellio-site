@@ -9,7 +9,7 @@ title = "The Reply All Protocol"
 +++
 
 
-![](/content/images/2019/01/best_social.png)
+{{< figure src="best_social.png" >}}
 
 This week, I learned that I can replace Facebook with an email account and the "Reply All" button.
 

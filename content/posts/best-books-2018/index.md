@@ -8,8 +8,7 @@ title = "The Best Books I Read in 2018"
 
 +++
 
-
-![](/content/images/2019/01/2018_best_books.jpg)
+{{< figure src="2018_best_books.jpg" >}}
 
 I was just flipping through my folder of draft posts and came across an unpublished list of my favorite books I read in 2017. I've been intending over the last few weeks of doing the same for 2018, so I'm taking the old draft as a wake-up call. Rather than let my good intentions lay fallow for another year, I'm choosing instead to lower my standards and share the list without much additional commentary:
 
