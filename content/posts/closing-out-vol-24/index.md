@@ -9,7 +9,7 @@ title = "Closing out Vol. 24 (buy a fucking notebook)"
 +++
 
 
-I [finished & indexed volume 24 of my notebooks today](/indexing-two-years-of-notebooks/), appropriately on Warren Ellis' reaction to [Roam Research](https://roamresearch.com).
+I [finished & indexed volume 24 of my notebooks today]({{< ref "indexing-two-years-of-notebooks" >}}), appropriately on Warren Ellis' reaction to [Roam Research](https://roamresearch.com).
 
 > Yes, I read Venkat’s Text Renaissance piece, which would have been more effective if the notation tool he talks up didn’t have the most inept and incoherent onboarding video I’ve seen in months. Buy a fucking notebook.
 

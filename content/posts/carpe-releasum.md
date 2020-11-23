@@ -9,7 +9,7 @@ title = "Ship every sprint as though it were your last"
 +++
 
 
-Imagine your decisions and the circumstances that ensue as a directed graph—the many possible worlds of your choices. Without care, the wrong choice may prune a whole range of more prudent options, such that [only foolish choices remain](/2019/02/07/foolish-choices/).
+Imagine your decisions and the circumstances that ensue as a directed graph—the many possible worlds of your choices. Without care, the wrong choice may prune a whole range of more prudent options, such that [only foolish choices remain]({{< ref "foolish-choices" >}}).
 
 There is a special risk to decision making in groups. Perhaps you agree to a trade-off, taking on risk in favor of an immediate benefit preferred by someone else. With good intentions, all parties agree to how the risk will later be mitigated. But that plan lasts only as long as the memory and continuity of stakeholders. When circumstances change, sensible plans can be mortally wounded by one utterance of the words "pragmatic" or "sunk-cost fallacy". And that's how a compromise leaves a system compromised.
 

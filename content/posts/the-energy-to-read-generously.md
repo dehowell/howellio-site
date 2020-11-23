@@ -19,7 +19,7 @@ Given that defensive preamble, here's a quote I highlighted from Gretchen Rubin'
 
 > Of course, it’s cooler not to be too happy. There’s a goofiness to happiness, an innocence, a readiness to be pleased. Zest and enthusiasm take energy, humility, and engagement; taking refuge in irony, exercising destructive criticism, or assuming an air of philosophical ennui is less taxing.
 
-Skimming through all my highlights, this originally jumped out at me in relation to [Nick Riggle and seeking to be awesome rather than cool](/clearing-the-energy-threshold-to-be-playful/). Now I see that it also describes how I relate to self-help as a genre! It takes energy to read generously OR to read something with thoughtful criticism.
+Skimming through all my highlights, this originally jumped out at me in relation to [Nick Riggle and seeking to be awesome rather than cool]({{< ref "clearing-the-energy-threshold-to-be-playful" >}}). Now I see that it also describes how I relate to self-help as a genre! It takes energy to read generously OR to read something with thoughtful criticism.
 
 The easy path in reading is to read dismissively, to toss something aside or fail to put your irritation into words. It's OK to do this, too. Life is too short to [force yourself through books](https://austinkleon.com/2016/03/03/how-to-read-more-2/) from a sense of obligation. But even book that looks dumb, if you put in the energy to ask "What is the way of seeing the world that makes this seem true?", might be better than you credit.
 

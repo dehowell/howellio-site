@@ -21,7 +21,7 @@ From the outside, meditation looks relaxing, but the actual moment-to-moment exp
 
 The narrator in your head — [the default mode network](https://en.wikipedia.org/wiki/Default_mode_network) — distracts you from the present moment by imposing subjective meaning on your experience. Meditation trains you to experience the inner monologue of aversions and desires without accepting them uncritically. It can be literally uncomfortable. If an itch distracts me from my breath, I focus instead on the _desire_ to scratch without acting on it.[^1]
 
-Meditation is like [weightlifting for patience](/2016/02/10/buddhism-as-i-understand-it/): a strenuous exercise that raises your baseline capacity for equanimity. Like all things that are difficult but good for me, I’m great at making excuses to not do it. That’s where Beeminder comes in.
+Meditation is like [weightlifting for patience]({{< ref "buddhism-as-i-understand-it" >}}): a strenuous exercise that raises your baseline capacity for equanimity. Like all things that are difficult but good for me, I’m great at making excuses to not do it. That’s where Beeminder comes in.
 
 I started meditating in 2009, but my practice was on-and-off for years. I’d have stretches of near daily meditation, but then travel or illness would get in the way and I’d forget to pick it back up for weeks. I joined Beeminder in late 2015 and set a meditation goal with a commitment of five minutes a day. Since then, [I’ve done my daily meditation on six out of every ten days](https://www.beeminder.com/dehowell/meditate), which is _profoundly_ more consistent than before.
 

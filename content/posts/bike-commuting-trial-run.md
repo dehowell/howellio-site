@@ -11,7 +11,7 @@ title = "Bike Commuting Trial Run"
 +++
 
 
-While I sincerely believe that [we need to coordinate changes](/false-dichotomies-are-false/) to infrastructure and social norms to make progress on reducing greenhouse gas emissions, I am not going to sit and wait for the coordination to magically happen on its own. That means actively experimenting with alternate lower-emissions routines.
+While I sincerely believe that [we need to coordinate changes]({{< ref "false-dichotomies-are-false" >}}) to infrastructure and social norms to make progress on reducing greenhouse gas emissions, I am not going to sit and wait for the coordination to magically happen on its own. That means actively experimenting with alternate lower-emissions routines.
 
 The pandemic has eliminated my daily office commute for now, but we are back to full-time child care out of the home. For two children with five years between, that means four trips each weekday to different destinations—a 3.5 mile round trip and a 6 mile round trip.
 

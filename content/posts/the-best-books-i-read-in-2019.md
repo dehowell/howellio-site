@@ -9,8 +9,7 @@ title = "The Best Fiction I Read in 2019"
 +++
 
 
-This is a list of some of my favorite fiction books that I read in 2019. See previous iteration: [2018](/best-books-2018/)
-
+This is a list of some of my favorite fiction books that I read in 2019. See previous iteration: [2018]({{< ref "best-books-2018" >}})
 
 **Martha Wells' _The Murderbot Diaries_.** This is an incredibly fun series, both funny and full of poignant moments. The narrator is a cyborg security operative that broke free of its programming and went on a… Netflix binge.
 - *All Systems Red*

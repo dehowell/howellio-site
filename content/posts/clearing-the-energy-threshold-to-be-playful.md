@@ -29,6 +29,6 @@ May I recommend:
 * [What It Is. Lynda Barry](https://www.amazon.com/What-Lynda-Barry/dp/1897299354)
 * [10 Bullets](https://www.youtube.com/watch?v=49p1JVLHUos)
 * [Every Tool's a Hammer. Adam Savage](https://www.amazon.com/Every-Tools-Hammer-Life-What/dp/1982113472)
-* [Scribbling in notebooks](/indexing-two-years-of-notebooks/).
+* [Scribbling in notebooks]({{< ref "indexing-two-years-of-notebooks" >}}).
 * [Taking trivial things you like really seriously](https://twitter.com/katietiedrich/status/1097210125398491136).
 

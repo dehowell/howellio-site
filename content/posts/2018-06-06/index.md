@@ -29,5 +29,5 @@ Outsourcing all labor to artificial intelligence is such a boring vision. I want
 [^1]: I would be surprised if any font designer had to be told to maintain the same line height across variants, but I'm curious if "the enclosed area in a glyph should remain roughly constant across font weights" is a known design principle.
 
 [1]: https://distill.pub/2017/aia/
-[2]: {{< ref "on-centaurs.md" >}}
+[2]: {{< ref "on-centaurs" >}}
 

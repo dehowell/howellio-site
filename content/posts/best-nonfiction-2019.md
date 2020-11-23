@@ -9,7 +9,7 @@ title = "The Best Non-Fiction I Read in 2019"
 +++
 
 
-This is a list of the best non-fiction books I read in 2019. I shared [my fiction list](/the-best-books-i-read-in-2019/) previously, as well as [my 2018 and 2017 favorites](/best-books-2018/).
+This is a list of the best non-fiction books I read in 2019. I shared [my fiction list]({{< "the-best-books-i-read-in-2019" >}}) previously, as well as [my 2018 and 2017 favorites]({{< ref="best-books-2018" >}}).
 
 [**_Living With Complexity_. Donald A. Norman.**](https://www.goodreads.com/book/show/8295595-living-with-complexity) 
 
