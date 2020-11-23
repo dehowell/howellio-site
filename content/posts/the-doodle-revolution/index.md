@@ -17,7 +17,7 @@ You have to get out of your head and into your body to think.
 
 Working memory is limited. Experimental work that tries to measure the bandwidth of short-term memory is necessarily going to be task-specific, but I don't think the exact number of concurrent concepts we can work with matters — we can test it with our own experience, in the work that matters to us.
 
-{{< figure src="/content/images/2019/10/brown2014_p17_power.jpg" >}}
+{{< figure src="brown2014_p17_power.jpg" >}}
 
 Adding a visual channel to a conversation helps the group track more and repair misunderstandings faster.
 
@@ -25,7 +25,7 @@ Adding a visual channel to a conversation helps the group track more and repair 
 
 Short words and phrases on a whiteboard go a long way to draw a group's attention back to its agenda, and weaving the threads of digression back to where they help.
 
-{{< figure src="/content/images/2019/10/brown2014_p17_performance.jpg" >}}
+{{< figure src="brown2014_p17_performance.jpg" >}}
 
 Pictures help even more, but self-consciousness about drawing is hard to shake.
 
@@ -41,5 +41,5 @@ Practice showing grace to others and you might just learn to show grace to yours
 
 [grace]: https://mathyawp.blogspot.com/2013/01/the-lesson-of-grace-in-teaching.html
 
-{{< figure src="/content/images/2019/10/brown2014_p17_pleasure.jpg" >}}
+{{< figure src="brown2014_p17_pleasure.jpg" >}}
 

@@ -11,7 +11,7 @@ title = "The cure for the disease called thinking"
 
 Peter Stallybrass's ["Against Thinking"](https://www.jstor.org/stable/25501804?seq=1#page_scan_tab_contents) is a manifesto against the myth that original ideas come from talent and a blank page. He compares the labor of writing to the labor of bees:
 
-{{< figure src="/content/images/2019/11/34773034-fdb2-4d02-a1f0-85de5fc69df1_1536x436.png.4bb9f310085141ae87b8772b9b4a5a41.jpeg" >}}
+{{< figure src="34773034-fdb2-4d02-a1f0-85de5fc69df1_1536x436.png.4bb9f310085141ae87b8772b9b4a5a41.jpeg" >}}
 
 Talent, skill, and taste all matter, but they need material to work with. The history of literature and thought is one long conversation, building off the top of other people's concepts, drawing new connections or trying new metaphors.
 
@@ -25,7 +25,7 @@ The history of technology works by finding new combinations of old materials and
 
 You can't make something without starting materials, whether substances in the world, demonstration of a working mechanism, or concepts for organizing experience.
 
-{{< figure src="/content/images/2019/11/55B5454B-22CD-4FDA-BB0F-4EE85BB58679.jpg" caption="Family tree of cornet designs, from <em>What Technology Wants.</em>" >}}
+{{< figure src="55B5454B-22CD-4FDA-BB0F-4EE85BB58679.jpg" caption="Family tree of cornet designs, from <em>What Technology Wants.</em>" >}}
 
 It's not always easy to see how concepts themselves are historical artifacts. The successful ones get embedded deeply in our language and perception. Some concepts, once introduced in our culture, look like a native part of the world.
 
@@ -34,7 +34,7 @@ It's not always easy to see how concepts themselves are historical artifacts. Th
 
 Get away from the blank page and stir whatever [you favor as a compost pile for your brain](https://evernote.com/). Stallybrass again: "The cure for the disease called thinking is work."
 
-{{< figure src="/content/images/2019/11/IMG_0215.jpg" caption="The cure for the disease called thinking is work." >}}
+{{< figure src="IMG_0215.jpg" caption="The cure for the disease called thinking is work." >}}
 
 Related:
 
