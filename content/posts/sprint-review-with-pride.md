@@ -4,9 +4,9 @@ categories = ["Notebook"]
 date = 2020-08-09T23:57:19Z
 description = ""
 draft = false
-slug = "202008091657-untitled"
+slug = "sprint-review-with-pride"
 tags = ["Notebook"]
-title = "(Untitled)"
+title = "Sprint Review with Pride"
 
 +++
 
