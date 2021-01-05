@@ -25,7 +25,7 @@ The history of technology works by finding new combinations of old materials and
 
 You can't make something without starting materials, whether substances in the world, demonstration of a working mechanism, or concepts for organizing experience.
 
-{{< figure src="55B5454B-22CD-4FDA-BB0F-4EE85BB58679.jpg" caption="Family tree of cornet designs, from <em>What Technology Wants.</em>" >}}
+{{< figure src="55B5454B-22CD-4FDA-BB0F-4EE85BB58679.jpg" caption="Family tree of cornet designs, from What Technology Wants." >}}
 
 It's not always easy to see how concepts themselves are historical artifacts. The successful ones get embedded deeply in our language and perception. Some concepts, once introduced in our culture, look like a native part of the world.
 
