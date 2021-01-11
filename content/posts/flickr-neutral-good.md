@@ -4,8 +4,8 @@ date = 2021-01-11T06:00:00Z
 author = "David Howell"
 authorTwitter = ""
 cover = ""
-tags = ["", ""]
-keywords = ["", ""]
+tags = []
+keywords = []
 description = ""
 showFullContent = false
 +++
