@@ -1,6 +1,8 @@
 ---
 title: "I Choose This"
 date: 2021-01-24T14:33:23-05:00
+tags:
+    - Notebook
 ---
 
 On January weekend mornings, when it's too cold to get the kids outside to play for any real length of time, we all end up cooped up together in the house. More so this year, with COVID cases as bad as ever in Vermont and nowhere indoors to take them to blow off steam (the [ECHO Center aquarium][1] is a favorite). By the time, I've got my daughter down for her nap, I'm drained — physically, but more so emotionally.

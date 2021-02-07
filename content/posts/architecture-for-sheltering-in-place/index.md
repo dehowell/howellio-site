@@ -2,6 +2,7 @@
 title = "Architecture for Sheltering in Place"
 date = "2021-01-17T15:12:00Z"
 author = "David Howell"
+tags = ["Notebook"]
 +++
 
 Nearly a year ago, my family went from separating to work and school each morning to permanently cloistered together, with varying degrees of rebellion against the demands of sheltering in place with small children. We have been back to regular childcare for months, but the slow pace of vaccination and the B.1.1.7 variant loom over my partner and I. The prospect of once more trying to keep each other and the children sane while nominally keeping up with our full time responsibilities often greets me when I wake in the middle of the night.
