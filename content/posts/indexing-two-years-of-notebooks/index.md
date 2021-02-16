@@ -41,4 +41,3 @@ I'm not sure I'd recommend any of this as a _practical_ endeavor, but I do find 
 * When you feel stuck, train yourself to grab a notebook, free write and sketch whatever comes to mind. I find fifteen minutes of noodling almost always pays off.
 * If you do like fancy notebooks, deliberately fuck up the first page. Get yourself over any inhibition about "ruining" the nice notebook. A fancy-pants $20 notebook still costs something like $0.10 a page. Accept that there will be messy pages; it's not a big deal.
 * Use one notebook until you fill it. Mix topics wildly. Don't try to organize it or jump around (I'm anti-Bullet Journal in this respect). Treat it like an append-only log and optimize for throughput. If there's something in there that needs to be organized, take a picture and copy it into your digital notes.
-
