@@ -14,15 +14,11 @@ paginate = 5
   centerTheme = true
   showGitInfo = true
 
-[params.twitter]
-  creator = "dehowell"
-  site = "" # use if you have a Twitter handle for the site itself
-
 [languages]
   [languages.en]
     languageName = "English"
-    title = "David Howell"
-    subtitle = "As unprincipled as the gods and as much a jack of all trades."
+    title = "410 Gone"
+    subtitle = ""
     owner = "David Howell"
     keywords = ""
     copyright = "Copyright 2015-2021 David Howell"
@@ -35,9 +31,3 @@ paginate = 5
     [languages.en.params.logo]
       logoText = "howell.io"
       logoHomeLink = "/"
-
-    [languages.en.menu]
-      [[languages.en.menu.main]]
-        identifier = "start"
-        name = "Start Here"
-        url = "/start"
